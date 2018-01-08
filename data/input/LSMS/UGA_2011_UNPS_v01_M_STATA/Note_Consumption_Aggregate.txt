@@ -1,0 +1,9 @@
+22 June 2015
+
+Note on the consumption aggregate file.
+
+The Uganda Bureau of Statistics calculated the consumption aggregates
+that are distributed with the panel data.  They have not provided any
+documentation on how the variables were calculated.  You may use these
+files, but the LSMS Office cannot answer any questions regarding how the
+variables were constructed.
